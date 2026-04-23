@@ -90,9 +90,8 @@ project/
 ├── README.md
 ├── lambda-code/
 ├── screenshots/
-└── architecture/
-```
 
+```
 ---
 
 ## Conclusion
