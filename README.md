@@ -88,8 +88,7 @@ stress --cpu 4 --timeout 300
 ```
 project/
 ├── README.md
-├── lambda-code/
-├── screenshots/
+├── lambda-code
 
 ```
 ---
