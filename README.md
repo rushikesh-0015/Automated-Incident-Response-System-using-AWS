@@ -81,10 +81,6 @@ stress --cpu 4 --timeout 300
 
 ![Trigger](screenshots/alarm-trigger.png)
 
-### Scaling
-
-![Scaling](screenshots/scaling.png)
-
 ---
 
 ## Structure
